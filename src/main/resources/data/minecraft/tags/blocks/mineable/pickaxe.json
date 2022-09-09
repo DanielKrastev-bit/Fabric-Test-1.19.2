@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "testmod:ruby_block",
+    "testmod:green_ruby_block"
+  ]
+}
