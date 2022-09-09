@@ -2,5 +2,8 @@
   "item.testmod.ruby": "Ruby",
   "item.testmod.green_ruby": "Green Ruby",
 
+  "block.testmod.ruby_block": "Block of Ruby",
+  "block.testmod.green_ruby_block": "Block of Green Ruby",
+
   "itemGroup.testmod.testmod": "Test Mod Items"
 }

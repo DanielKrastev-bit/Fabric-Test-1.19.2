@@ -1,5 +1,6 @@
 package net.daniel.testmod;
 
+import net.daniel.testmod.block.ModBlocks;
 import net.daniel.testmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -13,6 +14,7 @@ public class TestMod implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
